@@ -1,12 +1,12 @@
-### Exp 8: Reproducing an Image Using Prompts for Image Generation
+## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
 # Date : 18.12.25
 # Reg. No: 25008757
 
-<br>## **Aim:**
-<br>To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
+## Aim:
+To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
 
-<br>## **Procedure:**
+## Procedure:
 ```
 1.	Analyze the Given Image:
 
@@ -38,7 +38,8 @@
 ○	Assess how closely the generated image matches the original in terms of colors, composition, subject, and style. Note the differences and refine the prompt if necessary.
 ```
 
-<br>## Tools/LLMs for Image Generation:
+## Tools/LLMs for Image Generation:
+
 ```
 ●	DALL·E (by OpenAI): A text-to-image generation tool capable of creating detailed images from textual prompts.
 ○	Website: DALL·E
@@ -48,7 +49,7 @@
 ○	Website: MidJourney
 ```
 
-<br>## Instructions:
+## Instructions:
 ```
 1.	Examine the Given Image: Study the image to understand its key features—objects, colors, lighting, composition, and any stylistic choices.
 2.	Write the Basic Prompt: Start with a simple description of the primary elements in the image (e.g., "A sunset over a mountain range").
@@ -58,21 +59,21 @@
 6.	Save and Document: Save the generated image and document your prompt alongside any observations on how the output compares to the original.
 ```
 
-<br>## Deliverables:
+## Deliverables:
 ```
 1.	The Original Image: Provided image for reference.
 2.	The Final Generated Image: The image created using your refined prompt.
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 ```
-<br>**SCENARIO 1 : Reproducing a Minimalist Digital Artwork**
+# SCENARIO 1 : Reproducing a Minimalist Digital Artwork**
 
 ![alt text](oia.png)
 ![alt text](prompts.png)
 ![alt text](comparison.png)
 
 
-<br>**SCENARIO 2: Reproducing a High-Contrast Street Photography Scene**
+# SCENARIO 2: Reproducing a High-Contrast Street Photography Scene**
 
 ![alt text](oia2.png)
 ![alt text](prompts2.png)
@@ -85,17 +86,17 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
 
-<br>**SCENARIO 1 : Reproducing a Minimalist Digital Artwork**
+# SCENARIO 1 : Reproducing a Minimalist Digital Artwork**
 
 **The Final Generated Prompt:**
-<br>Vector art illustration of a cute, stylized fox sitting upright. The fox is a solid, flat terracotta orange color. The background is a solid, flat, muted sage green. 
-<br>The style must be clean, sharp, and minimalist with no shadows, textures, or gradients. Centered composition.
+Vector art illustration of a cute, stylized fox sitting upright. The fox is a solid, flat terracotta orange color. The background is a solid, flat, muted sage green. 
+The style must be clean, sharp, and minimalist with no shadows, textures, or gradients. Centered composition.
 ![alt text](scenario1.png)
-<br>**SCENARIO 2: Reproducing a High-Contrast Street Photography Scene**
+# SCENARIO 2: Reproducing a High-Contrast Street Photography Scene**
 
-<br>**The Final Generated Prompt**: 
-<br>Cinematic street photography, black and white, high contrast, noir aesthetic. A lone figure in a long trench coat walks away from the camera on a rain-slicked, wet pavement. 
-<br>A classic urban streetlamp is the only light source, casting long, dramatic shadows. The background is dark and moody. 
-<br>Shot with a low angle, high-quality film grain, and a wide aperture.
+**The Final Generated Prompt**: 
+Cinematic street photography, black and white, high contrast, noir aesthetic. A lone figure in a long trench coat walks away from the camera on a rain-slicked, wet pavement. 
+A classic urban streetlamp is the only light source, casting long, dramatic shadows. The background is dark and moody. 
+Shot with a low angle, high-quality film grain, and a wide aperture.
 
 ![alt text](scenario2.png)
