@@ -100,3 +100,5 @@ A classic urban streetlamp is the only light source, casting long, dramatic shad
 Shot with a low angle, high-quality film grain, and a wide aperture.
 
 ![alt text](scenario2.png)
+# RESULT :
+The prompt-based image reproduction experiment was executed successfully, and the generated images closely matched the original images using refined prompts.
