@@ -66,14 +66,14 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 ```
-# SCENARIO 1 : Reproducing a Minimalist Digital Artwork**
+# SCENARIO 1 : Reproducing a Minimalist Digital Artwork
 
 ![alt text](oia.png)
 ![alt text](prompts.png)
 ![alt text](comparison.png)
 
 
-# SCENARIO 2: Reproducing a High-Contrast Street Photography Scene**
+# SCENARIO 2: Reproducing a High-Contrast Street Photography Scene
 
 ![alt text](oia2.png)
 ![alt text](prompts2.png)
@@ -86,13 +86,13 @@ By using detailed and well-crafted prompts, text-to-image generation models can 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
 
-# SCENARIO 1 : Reproducing a Minimalist Digital Artwork**
+# SCENARIO 1 : Reproducing a Minimalist Digital Artwork
 
 **The Final Generated Prompt:**
 Vector art illustration of a cute, stylized fox sitting upright. The fox is a solid, flat terracotta orange color. The background is a solid, flat, muted sage green. 
 The style must be clean, sharp, and minimalist with no shadows, textures, or gradients. Centered composition.
 ![alt text](scenario1.png)
-# SCENARIO 2: Reproducing a High-Contrast Street Photography Scene**
+# SCENARIO 2: Reproducing a High-Contrast Street Photography Scene
 
 **The Final Generated Prompt**: 
 Cinematic street photography, black and white, high contrast, noir aesthetic. A lone figure in a long trench coat walks away from the camera on a rain-slicked, wet pavement. 
